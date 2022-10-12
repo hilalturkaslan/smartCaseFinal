@@ -1,0 +1,14 @@
+{
+  "name": "smartcase",
+  "version": "1.0.0",
+  "description": "smartt",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
