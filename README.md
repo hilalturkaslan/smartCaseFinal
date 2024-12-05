@@ -10,3 +10,4 @@ Akıllı sözleşmeyi build contracts ve deploy contracts etmek gereklidir.
 Daha sonra package.json ve package-lock.json dosyaları yüklenir.
 Bu dosyalar için npm init ve npm install --package-lock komutları kullanılır.
 
+
